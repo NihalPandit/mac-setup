@@ -23,6 +23,19 @@ Setup mac for Web Development
 2) Download and copy httpd-vhosts.conf to appropriate location
 
 3) Copy content from home-dir to the root of the sever (modified version of http://cmall.github.io/LocalHomePage/)
-        
+
+4) Run this to Install necessary Apps:
+    curl -s 'http://macapps.link/en/firefox-chrome-alfred-sourcetree-vscode-iterm-keka-flux' | sh
+
+        Applications included:
+
+            Mozila Firefox
+            Google Chrome
+            Alfred 2
+            SourceTree
+            Visual Studio Code
+            iTerm 2
+            Keka (archive extractor)
+            flux
 
 --Nihal Pandit
