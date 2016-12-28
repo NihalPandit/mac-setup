@@ -27,6 +27,7 @@ Setup mac for Web Development
 4) Run this to Install necessary Apps:
 
     curl -s 'http://macapps.link/en/firefox-chrome-alfred-sourcetree-vscode-iterm-keka-flux' | sh
+    
     Applications included:
 
         Mozila Firefox
