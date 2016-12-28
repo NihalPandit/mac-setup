@@ -26,16 +26,15 @@ Setup mac for Web Development
 
 4) Run this to Install necessary Apps:
     curl -s 'http://macapps.link/en/firefox-chrome-alfred-sourcetree-vscode-iterm-keka-flux' | sh
+    Applications included:
 
-        Applications included:
-
-            Mozila Firefox
-            Google Chrome
-            Alfred 2
-            SourceTree
-            Visual Studio Code
-            iTerm 2
-            Keka (archive extractor)
-            flux
+        Mozila Firefox
+        Google Chrome
+        Alfred 2
+        SourceTree
+        Visual Studio Code
+        iTerm 2
+        Keka (archive extractor)
+        flux
 
 --Nihal Pandit
