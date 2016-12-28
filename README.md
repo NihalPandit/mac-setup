@@ -1,7 +1,7 @@
 # mac-setup
 Setup mac for Web Development
 
-Run the intall.sh script
+1) Run the intall.sh script
 
 Commands in the script:
 
@@ -17,18 +17,7 @@ Commands in the script:
     sudo mkdir /etc/resolver
     sudo bash -c 'echo "nameserver 127.0.0.1" > /etc/resolver/dev'
 
-httpd-vhosts.conf
-    <Directory "/www">
-        Options Indexes MultiViews FollowSymLinks
-        AllowOverride All
-        Order allow,deny
-        Allow from all
-    </Directory>
-
-    <Virtualhost *:80>
-        VirtualDocumentRoot "/www/home/"
-        ServerName home.dev
-        UseCanonicalName Off
-    </Virtualhost>    
+2) Download and copy httpd-vhosts.conf to appropriate location
+        
 
 --Nihal Pandit
